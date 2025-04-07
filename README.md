@@ -117,11 +117,9 @@ shiny::runApp("Funciones y Dashboard")
 
 ## 🧑‍🤝‍🧑 Equipo de Desarrollo
 
-| Nombre               | Email institucional             | Email personal               | LinkedIn |
-|----------------------|----------------------------------|------------------------------|----------|
-| Gabriel Gudiño       | jgudino27@alumnos.uaq.mx         | gabriels114@gmail.com        | [Perfil](https://www.linkedin.com/in/gabriel-gudiño-lara/) |
-| Ana Ramírez          | aramirez285@alumnos.uaq.mx       | anarramirez.ralo@gmail.com   | [Perfil](https://www.linkedin.com/in/ana-ramirez-lopez-6110b7296/) |
-| Fernando Cárdenas    | fcardenas04@alumnos.uaq.mx       | fercard.go@gmail.com         | [Perfil](https://www.linkedin.com/in/fercardgo/) |
-| Kay García           | kgarcia85@alumnos.uaq.mx         | kayychez@gmail.com           | [Perfil](https://www.linkedin.com/in/kay-garcia-icad/) |
-
-
+| 👤 Nombre              | 📧 Email institucional        | 📧 Email personal         | 📅 LinkedIn |
+|----------------------|-------------------------------|------------------------------|----------|
+| Gabriel Gudiño 🚀       | jgudino27@alumnos.uaq.mx        | gabriels114@gmail.com       | [Perfil](https://www.linkedin.com/in/gabriel-gudiño-lara/) |
+| Ana Ramírez 🌿         | aramirez285@alumnos.uaq.mx      | anarramirez.ralo@gmail.com  | [Perfil](https://www.linkedin.com/in/ana-ramirez-lopez-6110b7296/) |
+| Fernando Cárdenas 💡    | fcardenas04@alumnos.uaq.mx      | fercard.go@gmail.com        | [Perfil](https://www.linkedin.com/in/fercardgo/) |
+| Kay García 🎨           | kgarcia85@alumnos.uaq.mx        | kayychez@gmail.com          | [Perfil](https://www.linkedin.com/in/kay-garcia-icad/) |
