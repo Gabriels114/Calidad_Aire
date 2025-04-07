@@ -16,8 +16,10 @@ Este proyecto integra diversas disciplinas y tecnologías:
   - ![DHT11](https://img.shields.io/badge/DHT11-Temp%2FHumidity-blue?style=flat) **DHT11** (Temperatura y Humedad)
   - ![MQ135](https://img.shields.io/badge/MQ--135-Air%20Quality-green?style=flat) **MQ-135** (Calidad del Aire - CO₂, NH₃, Benceno)
   - ![MQ7](https://img.shields.io/badge/MQ--7-CO-red?style=flat) **MQ-7** (Monóxido de Carbono)
+  - ![CCS811](https://img.shields.io/badge/CCS811-CO2/TVOC-orange?style=flat) **CCS811** (Dioxido de Carbono y compuestos volátiles totales en el aire)
 - Pantalla **LCD 1602A** para visualización local.
 - Comunicación WiFi con **Google Sheets**.
+- Lenguaje **C++**
 
 ### 📊 **Ciencia de Datos y Estadística**
 - Análisis exploratorio y descriptivo.
