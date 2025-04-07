@@ -1,4 +1,4 @@
-# 🌬️📊 Proyecto Calidad del Aire – TroyaUAQ
+# 🌬️ Proyecto Calidad del Aire – TroyaUAQ📊
 
 Bienvenido al repositorio del proyecto **Calidad del Aire – TroyaUAQ**, una iniciativa multidisciplinaria que evalúa la calidad del aire interior en la Facultad de Informática de la UAQ. Nuestro objetivo es analizar cómo los contaminantes atmosféricos impactan en la salud, concentración y productividad de los estudiantes y personal docente.
 
